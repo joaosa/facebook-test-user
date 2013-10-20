@@ -1,0 +1,31 @@
+{
+  "name": "facebook-test-user",
+  "version": "0.0.0",
+  "main": "lib/facebook-test-user.js",
+  "description": "The best module ever.",
+  "homepage": "https://github.com/joaosa/facebook-test-user",
+  "bugs": "https://github.com/joaosa/facebook-test-user/issues",
+  "author": {
+    "name": "João Sousa Andrade",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaosa/facebook-test-user"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  },
+  "dependencies": {
+    "zepto-browserify": "~1.0.0",
+    "q": "~0.9.7",
+    "underscore": "~1.5.2"
+  }
+}
