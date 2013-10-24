@@ -1,14 +1,11 @@
 # facebook-test-user [![Build Status](https://secure.travis-ci.org/joaosa/facebook-test-user.png?branch=master)](http://travis-ci.org/joaosa/facebook-test-user)
 
-The best module ever.
+A promise-friendly Facebook Test User API.
+It depends on [kriskoval/q](https://github.com/kriskowal/q), [madrobby/zeptojs](https://github.com/madrobby/zepto) and [jashkenas/underscore](https://github.com/jashkenas/underscore).
 
 ## Getting Started
-Install the module with: `npm install facebook-test-user`
-
-```javascript
-var facebook-test-user = require('facebook-test-user');
-facebook-test-user.awesome(); // "awesome"
-```
+Note: currently not available on NPM.
+/* Install the module with: `npm install facebook-test-user` */
 
 ## Documentation
 _(Coming soon)_
